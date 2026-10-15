@@ -15,7 +15,7 @@ Online retailers collect large amounts of clickstream data but often struggle to
 1. identify the behavioural patterns that distinguish purchasing sessions from non-purchasing ones, and
 2. build and compare classifiers that predict purchase intent, then show how the predicted scores should be converted into decisions using the cost and benefit of an intervention rather than the default 0.5 threshold.
 
-The work follows the CRISP-DM methodology. The full write-up is in [`report/Harris_R2411D18873136_Report.pdf`](report/Harris_R2411D18873136_Report.pdf).
+The work follows the CRISP-DM methodology. The full write-up is in [`reports/Harris_R2411D18873136_Report.pdf`](reports/Harris_R2411D18873136_Report.pdf).
 
 ## Dataset
 
